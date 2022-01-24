@@ -1,9 +1,11 @@
 # DSBA_CS224N_2021
 
-
 ---
-description: >- DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtube에 새로 공개된 CS224N 강의를 리뷰합니다. <비정형데이터분석> 수강 전 nlp를 빠르게 훑고자 기획되었으며, 기획 의도에 따라 몇몇 강의는 스터디 범위에서 임의로 제외하였음을 밝힙니다. 추가로 다루고 싶은 챕터가 있다면 pop-up 형식으로 따로 진행해주시면 되겠습니다. 스터디 진행 정보는 아래와 같습니다.
+description: >-
+  DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtube에 새로 공개된 CS224N 강의를 리뷰합니다. <비정형데이터분석> 수강 전 nlp를 빠르게 훑고자 기획되었으며, 기획 의도에 따라 몇몇 강의는
+  스터디 범위에서 임의로 제외하였음을 밝힙니다. 추가로 다루고 싶은 챕터가 있다면 pop-up 형식으로 따로 진행해주시면 되겠습니다. 스터디 진행 정보는 아래와 같습니다.
 --
+
 - 기간: 2022.02.09(수) ~ 2022.03.16(수), 총 6주
 
 - 시간: 매주 수요일 오후 2시
@@ -13,7 +15,7 @@ description: >- DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtu
 - 참여자: 고유경, 정용기, (Welcome!~!)
 
 ---
-> 스터디 진행 방식
+> **스터디 진행 방식**
 > 
 > 1. 스터디에서 직접적으로 다루지 않는 1 ~ 6강은 01.25(화) ~ 02.01(화) 2주 간 각자 알아서 수강하도록 합니다.
 > 2. 매주 2명씩 인당 40분 이내로 각자 맡은 강의를 리뷰합니다.
@@ -28,7 +30,7 @@ description: >- DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtu
 
 # CS224n 2021 Winter Review
 
-## Stanford CS224N: Natural Language Processing with Deep Learning
+_Stanford CS224N: Natural Language Processing with Deep Learning_
 
 ### 1. [Syllabus](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)
 
