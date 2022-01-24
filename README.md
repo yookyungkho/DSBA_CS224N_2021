@@ -19,7 +19,7 @@ description: >-
 | Lecture | Reviewer |
 | :--- | :---: |
 | [\[Lecture 5\] Convolutional Neural Networks](lecture-5-convolutional-neural-networks.md) | 고유경 |
-| [\[Lecture 7\] Training Neural Networks I](lecture-6-training-neural-networks-i.md) |  |
+| [\[Lecture 7\] Training Neural Networks I](lecture-6-training-neural-networks-i.md) | 정용기 |
 | [\[Lecture 7\] Training Neural Networks II](lecture-7-training-neural-networks-ii.md) | 고유경 |
 | [\[Lecture 9\] CNN Architectures](lecture-9-cnn-architectures.md) | 강의정 |
 | [\[Lecture 10\] Recurrent Neural Networks](lecture-10-recurrent-neural-networks.md) | 이혜민 |
