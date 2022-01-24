@@ -24,7 +24,6 @@ description: >-
 > 6. **오프라인 진행을 원칙**으로 하나, zoom 링크를 개방하여 각자 상황에 맞게 온라인에서도 참여할 수 있도록 합니다.
 > 7. 스터디 장소 예약은 학교 계정울 필요로 하기 때문에 2021년도 2학기 신입생들이 맡아서 합니다.
 > 8. Assignment는 할까요 말까요!?????????(제가 생각해본건 "총 2개(a4,a5)입니다. 해당 github repository에 각자 수행한 내용을 push합니다."입니당)
-> 9. **이유경 박사과정의 피드백이 특별 제공됩니다:)**
 
 ---
 
@@ -49,8 +48,8 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | 2022.02.16(Wed) | \[Lecture 10\] Transformers and Pretraining | [link](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  |
 | 2022.02.23(Wed) | \[Lecture 11\] Question Answering | [link](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
 | 2022.02.23(Wed) | \[Lecture 12\] Natural Language Generation | [link](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
-| 2022.03.02(Wed) | \[Lecture 14\] T5 and Large Language Models | [link](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  |
-| 2022.03.02(Wed) | \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  |
+| 2022.03.02(Wed) | \[Lecture 14\] T5 and Large Language Models | [link](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) | 이유경 |
+| 2022.03.02(Wed) | \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) | 이유경 |
 | 2022.03.09(Wed) | \[Lecture 17\] Model Analysis and Explanation | [link](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  |
 | 2022.03.09(Wed) | \[Lecture 18\] Future of NLP + Deep Learning | [link](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  |
 | 2022.03.16(Wed) | \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  |
