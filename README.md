@@ -2,34 +2,40 @@
 
 
 ---
-description: >-
-  
+description: DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtube에 새로 공개된 CS224N 강의를 리뷰합니다. <비정형데이터분석> 수강 전 nlp를 빠르게 훑고자 기획되었으며, 기획 의도에 따라 몇몇 강의는 스터디 범위에서 임의로 제외하였음을 밝힙니다. 추가로 다루고 싶은 챕터가 있다면 pop-up 형식으로 따로 진행해주시면 되겠습니다. 스터디 진행 정보는 아래와 같습니다.
+
+- 기간: 2022.02.09(수) ~ 2022.03.16(수), 총 6주
+
+- 시간: 매주 수요일 오후 2시
+
+- 장소: (offline) 신공학관 3층 스터디룸, (온라인) Zoom
+
+- 참여자: 고유경, 정용기, .....
+
 ---
 
-# CS231n 2017 Spring Review
+# CS224n 2021 Winter Review
 
-## CS231n: Convolutional Neural Networks for Visual Recognition
+## Stanford CS224N: Natural Language Processing with Deep Learning
 
-### 1. [Syllabus](http://cs231n.stanford.edu/syllabus.html)
+### 1. [Syllabus](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)
 
-### 2. [Lecture Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- Lecture Slides are available in the syllabus site.
 
-### 3. [Original Gitbook Link](https://app.gitbook.com/@tobigs-staff/s/-1/)
+### 2. [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
-| Lecture | Reviewer |
-| :--- | :---: |
-| [\[Lecture 5\] Convolutional Neural Networks](lecture-5-convolutional-neural-networks.md) | 고유경 |
-| [\[Lecture 7\] Training Neural Networks I](lecture-6-training-neural-networks-i.md) | 정용기 |
-| [\[Lecture 7\] Training Neural Networks II](lecture-7-training-neural-networks-ii.md) | 고유경 |
-| [\[Lecture 9\] CNN Architectures](lecture-9-cnn-architectures.md) | 강의정 |
-| [\[Lecture 10\] Recurrent Neural Networks](lecture-10-recurrent-neural-networks.md) | 이혜민 |
-| [\[Lecture 11\] Detection and Segmentation](untitled.md) | 이홍정 |
-| [\[Lecture 12\] Visualizing and Understanding](lecture-12-visualizing-and-understanding.md) | 강의정 |
-| [\[Lecture 13\] Generative Models](lecture-13-generative-models.md) | 서아라 |
-| [\[Lecture 14\] Deep Reinforcement Learning](lecture-14-deep-reinforcement-learning.md) | 이정은 |
-| [\[Lecture 16\] Adversarial Examples and Adversarial Training](lecture-16-adversarial-examples-and-adversarial-training.md) | 서아라 |
-| [\[MIT\] Introduction to Human-Centered Artificial Intelligence \(AI\)](mit-human-centered-artificial-intelligence.md) | 고유경 |
-| [\[UCSanDiego\] 3D Deep Learning Tutorial](ucsandiego-3d-deep-learning-tutorial.md) | 이홍정 |
-| [\[Microsoft Research\] An Introduction to Graph Neural Networks](microsoft-research-an-introduction-to-graph-neural-networks-models-and-applications.md) | 이혜민 |
-| [\[Paper Review 1\] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](paper-review-1-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale.md) | 이유민 |
-| [\[Paper Review 2\] You Only Look Once Unified, Real-Time Object Detection](2.md) | 강미경 |
+
+| Lecture | Video | Reviewer |
+| :--- | :---: | :---: |
+| \[Lecture 5\] Language Models and RNNs | [link](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5) | 고유경 |
+| \[Lecture 7\] Translation, Seq2Seq, Attention | [link](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) | 정용기 |
+| \[Lecture 9\] Self- Attention and Transformers | [link](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) |  |
+| \[Lecture 10\] Transformers and Pretraining | [link](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  |
+| \[Lecture 11\] Question Answering | [link](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
+| \[Lecture 12\] Natural Language Generation | [link](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
+| \[Lecture 14\] T5 and Large Language Models | [link](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  |
+| \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  |
+| \[Lecture 17\] Model Analysis and Explanation | [link](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  |
+| \[Lecture 18\] Future of NLP + Deep Learning | [link](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  |
+| \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  |
+| \[Special Lecture 2\] BERT and Other Pre-trained Language Models | [link](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  |
