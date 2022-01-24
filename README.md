@@ -9,7 +9,7 @@ description: >-
 
 - 시간: 매주 수요일 오후 2시
 
-- 장소: (offline) 신공학관 3층 스터디룸, (온라인) Zoom
+- 장소: (offline) 신공학관 3층 스터디룸, (online) Zoom
 
 - 참여자: 고유경, 정용기, 이유경, ...(Welcome!~!)
 
