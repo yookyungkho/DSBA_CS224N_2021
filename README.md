@@ -37,6 +37,8 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 
 ### 2. [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
+### 3. Schedule
+
 
 | Date | Lecture | Video | Reviewer |
 | :--- | :---: | :---: | :---: |
