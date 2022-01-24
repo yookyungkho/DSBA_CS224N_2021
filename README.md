@@ -25,17 +25,17 @@ description: DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtube�
 ### 2. [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 
-| Lecture | Video | Reviewer |
-| :--- | :---: | :---: |
-| \[Lecture 5\] Language Models and RNNs | [link](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5) | 고유경 |
-| \[Lecture 7\] Translation, Seq2Seq, Attention | [link](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) | 정용기 |
-| \[Lecture 9\] Self- Attention and Transformers | [link](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) |  |
-| \[Lecture 10\] Transformers and Pretraining | [link](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  |
-| \[Lecture 11\] Question Answering | [link](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
-| \[Lecture 12\] Natural Language Generation | [link](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
-| \[Lecture 14\] T5 and Large Language Models | [link](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  |
-| \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  |
-| \[Lecture 17\] Model Analysis and Explanation | [link](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  |
-| \[Lecture 18\] Future of NLP + Deep Learning | [link](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  |
-| \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  |
-| \[Special Lecture 2\] BERT and Other Pre-trained Language Models | [link](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  |
+| Date | Lecture | Video | Reviewer |
+| :--- | :---: | :---: | :---: |
+| 2022.02.09(Wed) | \[Lecture 5\] Language Models and RNNs | [link](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5) | 고유경 |
+| 2022.02.09(Wed) | \[Lecture 7\] Translation, Seq2Seq, Attention | [link](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) | 정용기 |
+| 2022.02.09(Wed) | \[Lecture 9\] Self- Attention and Transformers | [link](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) |  |
+| 2022.02.09(Wed) | \[Lecture 10\] Transformers and Pretraining | [link](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  |
+| 2022.02.09(Wed) | \[Lecture 11\] Question Answering | [link](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
+| 2022.02.09(Wed) | \[Lecture 12\] Natural Language Generation | [link](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
+| 2022.02.09(Wed) | \[Lecture 14\] T5 and Large Language Models | [link](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  |
+| 2022.02.09(Wed) | \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  |
+| 2022.02.09(Wed) | \[Lecture 17\] Model Analysis and Explanation | [link](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  |
+| 2022.02.09(Wed) | \[Lecture 18\] Future of NLP + Deep Learning | [link](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  |
+| 2022.02.09(Wed) | \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  |
+| 2022.02.09(Wed) | \[Special Lecture 2\] BERT and Other Pre-trained Language Models | [link](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  |
