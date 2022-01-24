@@ -52,5 +52,5 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | 2022.03.02(Wed) | \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) | 이유경 |
 | 2022.03.09(Wed) | \[Lecture 17\] Model Analysis and Explanation | [link](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  |
 | 2022.03.09(Wed) | \[Lecture 18\] Future of NLP + Deep Learning | [link](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  |
-| 2022.03.16(Wed) | \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  |
+| 2022.03.16(Wed) | \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) | 고유경 |
 | 2022.03.16(Wed) | \[Special Lecture 2\] BERT and Other Pre-trained Language Models | [link](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  |
