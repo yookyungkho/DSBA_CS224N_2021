@@ -46,7 +46,7 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | 2022.02.09(Wed) | \[Lecture 7\] Translation, Seq2Seq, Attention | [link](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) | 정용기 |
 | 2022.02.16(Wed) | \[Lecture 9\] Self- Attention and Transformers | [link](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) | 노건호 |
 | 2022.02.16(Wed) | \[Lecture 10\] Transformers and Pretraining | [link](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  |
-| 2022.02.23(Wed) | \[Lecture 11\] Question Answering | [link](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  |
+| 2022.02.23(Wed) | \[Lecture 11\] Question Answering | [link](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) | 김선우 |
 | 2022.02.23(Wed) | \[Lecture 12\] Natural Language Generation | [link](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) | 정용기 |
 | 2022.03.02(Wed) | \[Lecture 14\] T5 and Large Language Models | [link](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) | 이유경 |
 | 2022.03.02(Wed) | \[Lecture 15\] Add Knowledge to Language Models | [link](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) | 이유경 |
