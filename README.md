@@ -11,7 +11,7 @@ description: >-
 
 - 장소: (offline) 신공학관 3층 스터디룸, (online) Zoom
 
-- 참여자: 고유경, 정용기, 이유경, ...(Welcome!~!)
+- 참여자: 고유경, 정용기, 이유경, 김도윤, 이성계, 노건호, 김선우, 김재희, 오수지
 
 ---
 > **스터디 진행 방식**
@@ -53,4 +53,4 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | 2022.03.09(Wed) | \[Lecture 17\] Model Analysis and Explanation | [link](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  |
 | 2022.03.09(Wed) | \[Lecture 18\] Future of NLP + Deep Learning | [link](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  |
 | 2022.03.16(Wed) | \[Special Lecture 1\] Low Resource Machine Translation | [link](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) | 고유경 |
-| 2022.03.16(Wed) | \[Special Lecture 2\] BERT and Other Pre-trained Language Models | [link](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  |
+| 2022.03.16(Wed) | \[Special Lecture 2\] BERT and Other Pre-trained Language Models | [link](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) | 김도윤 |
