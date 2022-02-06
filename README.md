@@ -58,7 +58,7 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 
 
 | Date | Lecture video | Review video | Reviewer |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | 2022.02.09(Wed) | [\[Lecture 5\] Language Models and RNNs](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5) |  | 고유경 |
 | 2022.02.09(Wed) | [\[Lecture 7\] Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) |  | 정용기 |
 | 2022.02.16(Wed) | [\[Lecture 9\] Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) |  | 노건호 |
