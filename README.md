@@ -67,7 +67,7 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 
 | Date | Lecture video | Review video | Reviewer |
 | :---: | :---: | :---: | :---: |
-| 2022.02.09(Wed) | [\[Lecture 5\] Language Models and RNNs](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5) </ [\[Lecture 6\] Simple and LSTM RNNs](https://www.youtube.com/watch?v=0LixFSa7yts&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) |  | 고유경 |
+| 2022.02.09(Wed) | [\[Lecture 5\] Language Models and RNNs](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5) <\br> [\[Lecture 6\] Simple and LSTM RNNs](https://www.youtube.com/watch?v=0LixFSa7yts&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) |  | 고유경 |
 | 2022.02.09(Wed) | [\[Lecture 7\] Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) |  | 정용기 |
 | 2022.02.16(Wed) | [\[Lecture 9\] Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) |  | 노건호 |
 | 2022.02.16(Wed) | [\[Lecture 10\] Transformers and Pretraining](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  | 김재희 |
