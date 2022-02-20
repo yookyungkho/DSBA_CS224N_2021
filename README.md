@@ -43,7 +43,7 @@ description: >-
 
 8. 스터디 장소 예약은 학교 계정을 필요로 하기 때문에 2021년도 2학기 입학생들이 맡아서 합니다.
 
-9. 본 스터디 발표 영상은 [DSBA Youtube 채널](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg)을 통해 순차적으로 공개됩니다.
+9. 본 스터디 발표 영상은 [DSBA Youtube 채널](https://www.youtube.com/playlist?list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ)을 통해 순차적으로 공개될 예정입니다.
 
 
 <br/>
