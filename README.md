@@ -10,9 +10,9 @@ description: >-
 
 ## 🦁스터디 정보
 
-- 기간: 2022.02.09(수) ~ 2022.03.16(수), 총 6주
+- 기간: 2022.02.09(수) ~ 2022.03.22(화)
 
-- 시간: 매주 수요일 오후 2시
+- 시간: 매주 화요일 19시 30분
 
 - 장소: (offline) 신공학관 3층 스터디룸, (online) Zoom
 
@@ -69,13 +69,13 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | :---: | :---: | :---: | :---: |
 | 2022.02.09(Wed) | [\[Lecture 5\] Language Models and RNNs](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5)<br/>[\[Lecture 6\] Simple and LSTM RNNs](https://www.youtube.com/watch?v=0LixFSa7yts&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) | [link](https://www.youtube.com/watch?v=RM4SR430boI&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=1) | 고유경 |
 | 2022.02.09(Wed) | [\[Lecture 7\] Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7) | [link](https://www.youtube.com/watch?v=gyTm_s3-Ofo&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=2) | 정용기 |
-| 2022.02.16(Wed) | [\[Lecture 9\] Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) | [link](https://youtu.be/h5-WaqU03qg) | 노건호 |
-| 2022.02.16(Wed) | [\[Lecture 10\] Transformers and Pretraining](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  | 김재희 |
+| 2022.02.17(Thu) | [\[Lecture 9\] Self- Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9) | [link](https://www.youtube.com/watch?v=h5-WaqU03qg&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=3) | 노건호 |
+| 2022.02.17(Thu) | [\[Lecture 10\] Transformers and Pretraining](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10) |  | 김재희 |
 | 2022.02.23(Wed) | [\[Lecture 11\] Question Answering](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  | 김선우 |
 | 2022.02.23(Wed) | [\[Lecture 12\] Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  | 정용기 |
-| 2022.03.02(Wed) | [\[Lecture 14\] T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  | 이유경 |
-| 2022.03.02(Wed) | [\[Lecture 15\] Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  | 이유경 |
-| 2022.03.09(Wed) | [\[Lecture 17\] Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  | 이성계 |
-| 2022.03.09(Wed) | [\[Lecture 18\] Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  | 오수지 |
-| 2022.03.16(Wed) | [\[Special Lecture 1\] Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  | 고유경 |
-| 2022.03.16(Wed) | [\[Special Lecture 2\] BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  | 김도윤 |
+| 2022.03.08(Tue) | [\[Lecture 14\] T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  | 이유경 |
+| 2022.03.08(Tue) | [\[Lecture 15\] Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  | 이유경 |
+| 2022.03.15(Tue) | [\[Lecture 17\] Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  | 이성계 |
+| 2022.03.15(Tue) | [\[Lecture 18\] Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  | 오수지 |
+| 2022.03.22(Tue) | [\[Special Lecture 1\] Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  | 고유경 |
+| 2022.03.22(Tue) | [\[Special Lecture 2\] BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  | 김도윤 |
