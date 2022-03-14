@@ -75,7 +75,7 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | 2022.02.23(Wed) | [\[Lecture 12\] Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) |  | 정용기 |
 | 2022.03.08(Tue) | [\[Lecture 14\] T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) |  | 이유경 |
 | 2022.03.08(Tue) | [\[Lecture 15\] Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) |  | 이유경 |
-| 2022.03.15(Tue) | [\[Lecture 17\] Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) |  | 이성계 |
+| 2022.03.15(Tue) | [\[Lecture 17\] Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) | link | 이성계 |
 | 2022.03.15(Tue) | [\[Lecture 18\] Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  | 오수지 |
 | 2022.03.22(Tue) | [\[Special Lecture 1\] Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  | 고유경 |
 | 2022.03.22(Tue) | [\[Special Lecture 2\] BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  | 김도윤 |
