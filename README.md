@@ -1,7 +1,7 @@
 ---
 description: >-
-  DSBA 겨울방학 특별 스터디입니다. 2021년 10월 Youtube에 새로 공개된 CS224N 강의를 리뷰합니다. 비정형데이터분석 수강 전 nlp를 빠르게 훑고자 기획되었으며, 기획 의도에 따라 몇몇 강의는
-  스터디 범위에서 임의로 제외하였음을 밝힙니다. 추가로 다루고 싶은 챕터가 있다면 pop-up 형식으로 따로 진행해주시면 되겠습니다. 스터디 진행 정보는 아래와 같습니다.
+  DSBA 연구실 겨울방학 특별 스터디입니다. 2021년 10월 Youtube에 새로 공개된 CS224N 강의를 리뷰합니다. 비정형데이터분석 수강 전 nlp를 빠르게 훑고자 기획되었으며, 기획 의도에 따라 몇몇 강의는
+  스터디 범위에서 임의로 제외하였음을 밝힙니다. 스터디 진행 정보는 아래와 같습니다.
 ---
 
 
@@ -75,7 +75,7 @@ _Stanford CS224N: Natural Language Processing with Deep Learning_
 | 2022.02.23(Wed) | [\[Lecture 12\] Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12) | [link](https://www.youtube.com/watch?v=RkCbFQ1W6_Q&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=6) | 정용기 |
 | 2022.03.08(Tue) | [\[Lecture 14\] T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14) | [link](https://youtu.be/enkKXuU6_Ok) | 이유경 |
 | 2022.03.08(Tue) | [\[Lecture 15\] Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15) | [link](https://youtu.be/WDR1wAQzA1g) | 이유경 |
-| 2022.03.15(Tue) | [\[Lecture 17\] Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) | link | 이성계 |
-| 2022.03.15(Tue) | [\[Lecture 18\] Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) |  | 오수지 |
-| 2022.03.22(Tue) | [\[Special Lecture 1\] Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) |  | 고유경 |
-| 2022.03.22(Tue) | [\[Special Lecture 2\] BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) |  | 김도윤 |
+| 2022.03.15(Tue) | [\[Lecture 17\] Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17) | [link](https://www.youtube.com/watch?v=wtpShUzIELI&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=9) | 이성계 |
+| 2022.03.15(Tue) | [\[Lecture 18\] Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18) | [link](https://www.youtube.com/watch?v=dZi6INuLyOQ&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=10) | 오수지 |
+| 2022.03.22(Tue) | [\[Special Lecture 1\] Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19) | [link](https://www.youtube.com/watch?v=7E6DGvXJHl4&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=11) | 고유경 |
+| 2022.03.22(Tue) | [\[Special Lecture 2\] BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20) | [link](https://www.youtube.com/watch?v=jT4KufIqM_E&list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ&index=12) | 김도윤 |
